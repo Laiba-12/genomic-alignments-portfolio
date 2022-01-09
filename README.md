@@ -1,4 +1,4 @@
-# genomic-alignments-portfolio
+# portfolio
 ---
 title: "Genomic Alignments"
 author: "Laiba Khalid"
